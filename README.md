@@ -32,3 +32,7 @@ ENABLE_CORS=1                # Habilita CORS (útil para frontends externos)
 # TLS (opcional, si quieres que el proxy escuche en HTTPS)
 TLS_CERT=                    # Ruta al certificado .pem
 TLS_KEY=                     # Ruta a la clave privada .pem
+
+
+##Correlo con node en la carpeta razi
+node proxy
