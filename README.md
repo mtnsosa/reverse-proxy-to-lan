@@ -9,7 +9,7 @@ Sirve para exponer un servicio dentro de tu LAN en otra dirección/puerto (ej. p
 
 ```bash
 # Clona el repositorio
-git clone <url-del-repo>
+git clone https://github.com/mtnsosa/reverse-proxy-to-lan
 cd lan-reverse-proxy
 
 # Instala dependencias
