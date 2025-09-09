@@ -16,6 +16,7 @@ cd lan-reverse-proxy
 npm install
 
 
+#########Ejemplo de configuracion del archivo .env #####
 # IP a donde vas a redirigir el tráfico
 TARGET_URL=http://10.10.1.1:8000 #Este es un ejemplo.
 
